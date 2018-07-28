@@ -1,0 +1,6 @@
+framework module TargetActionComponentB {
+  umbrella header "TargetActionComponentB-umbrella.h"
+
+  export *
+  module * { export * }
+}

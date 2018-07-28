@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (18)
+  - TargetActionComponentB (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - TargetActionComponentB (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  TargetActionComponentB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 420e9d90f9f1fd740caf2238ed7ed64dc621c5b7
+  TargetActionComponentB: 90f026ea720db40c46865d4c56f63f56ce76d135
+
+PODFILE CHECKSUM: 04c7412bf4cf2a000fe8c1ffac3c5e4d6698ea05
+
+COCOAPODS: 1.5.3
